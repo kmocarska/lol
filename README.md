@@ -4,9 +4,7 @@ zad 1
 Program, który wczyta liczbę całkowitą i wypisze, czy jest ona większa od 5. 
 
 
-...c
-
-``
+```c
 #include <stdio.h>
 
 int main()
@@ -23,12 +21,14 @@ int main()
 
   return 0;
 
-}``
+}
+```
+
 
 zad 2
 Program, który wczyta liczbę całkowitą i wypisze, czy jest ona dodatnia czy ujemna;
-
-``#include <stdio.h>
+```c
+`#include <stdio.h>
 
 int main()
 
@@ -47,4 +47,5 @@ int main()
    
 
    return 0;
-}``
+}
+```
