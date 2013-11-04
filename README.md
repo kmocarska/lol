@@ -5,6 +5,7 @@ Program, który wczyta liczbę całkowitą i wypisze, czy jest ona większa od 5
 
 
 ...c
+``
 #include <stdio.h>
 
 int main()
@@ -12,15 +13,11 @@ int main()
 {
 
   int licz;
-
   printf("Podaj liczbe calkowita: ");
-
   scanf("%d", &licz);
 
   if (licz > 5) printf("Liczba jest wieksza od 5");
-
   if (licz < 5) printf("Liczba jest mniejsza od 5");
-
   if (licz = 5) printf("liczna jest rowna 5");
 
   return 0;
