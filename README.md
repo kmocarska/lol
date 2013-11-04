@@ -4,7 +4,8 @@ zad 1
 Program, który wczyta liczbę całkowitą i wypisze, czy jest ona większa od 5. 
 
 
-``#include <stdio.h>
+...c
+#include <stdio.h>
 
 int main()
 
