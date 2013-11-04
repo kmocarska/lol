@@ -28,7 +28,7 @@ int main()
 zad 2
 Program, który wczyta liczbę całkowitą i wypisze, czy jest ona dodatnia czy ujemna;
 ```c
-`#include <stdio.h>
+#include <stdio.h>
 
 int main()
 
