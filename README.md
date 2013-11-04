@@ -5,6 +5,7 @@ Program, który wczyta liczbę całkowitą i wypisze, czy jest ona większa od 5
 
 
 ...c
+
 ``
 #include <stdio.h>
 
