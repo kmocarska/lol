@@ -36,13 +36,10 @@ int main()
    int licz ;
 
 
-   printf("Podaj liczbe calkowita: ");
-
-   scanf("%d", &licz);
-   
+  printf("Podaj liczbe calkowita: ");
+  scanf("%d", &licz);
 
    if (licz > 0) printf("Liczba jest dodatnia");
-
    if (licz < 0) printf("Liczba jest ujemna");
    
 
